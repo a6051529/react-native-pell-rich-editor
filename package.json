@@ -1,0 +1,52 @@
+{
+  "_args": [
+    [
+      "react-native-pell-rich-editor@1.3.0",
+      "/Users/hinjin/Documents/innben-code/ltApp"
+    ]
+  ],
+  "_from": "react-native-pell-rich-editor@1.3.0",
+  "_id": "react-native-pell-rich-editor@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-xYrUqIGIiEuEyz6BAloGOebnVZQ=",
+  "_location": "/react-native-pell-rich-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-pell-rich-editor@1.3.0",
+    "name": "react-native-pell-rich-editor",
+    "escapedName": "react-native-pell-rich-editor",
+    "rawSpec": "1.3.0",
+    "saveSpec": null,
+    "fetchSpec": "1.3.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-pell-rich-editor/download/react-native-pell-rich-editor-1.3.0.tgz",
+  "_spec": "1.3.0",
+  "_where": "/Users/hinjin/Documents/innben-code/ltApp",
+  "author": {
+    "name": "wxik",
+    "email": "stulip@126.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wxik/react-native-rich-editor/issues"
+  },
+  "dependencies": {},
+  "description": "React Native Rich Editor",
+  "devDependencies": {},
+  "homepage": "https://github.com/wxik/react-native-rich-editor#readme",
+  "main": "src/index.js",
+  "name": "react-native-pell-rich-editor",
+  "peerDependencies": {
+    "react-native": ">=0.50.0",
+    "react-native-webview": ">=7.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxik/react-native-rich-editor.git"
+  },
+  "version": "1.3.0"
+}
